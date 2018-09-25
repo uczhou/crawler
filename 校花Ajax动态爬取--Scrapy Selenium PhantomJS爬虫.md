@@ -24,7 +24,7 @@ Request URL: https://www.toutiao.com/search_content/?offset=0&format=json&keywor
 
 返回的一个JSON文件，JSON文件里存放了页面加载的图片信息。
 
-<img src="http://img.meinvce.com/tech/toutiao2.png" height="500px" hspace="50px">
+<img src="http://img.meinvce.com/tech/toutiao2.png" width="700px" hspace="50px">
 
 ### 2. 通过Selenium和PhantomJS模拟我们查看搜索结果
 
